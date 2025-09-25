@@ -1,0 +1,8 @@
+{
+  "php.inlayHints.parameters.suppressNameMatchingValue": true,
+  "php.inlayHints.types.variable": false,
+  "php.linkedEditing.variables": true,
+  "php.inlayHints.types.suppressVariableFromLiteral": false,
+  "php.inlayHints.types.return": true,
+  "php.inlayHints.parameters.enabled": false
+}
